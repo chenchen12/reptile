@@ -1,0 +1,1 @@
+运行此代码的时候需要安装MySQL，并建立了MySQL的数据库weather及表cdweather;
